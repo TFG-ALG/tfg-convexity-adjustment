@@ -1,5 +1,5 @@
-## Title: Classical SABR Script
-```import numpy as np
+## Classical SABR Script
+``````python```import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -65,8 +65,8 @@ plt.show()
 
 ```
 
-## Title: Calibration Script
-```import numpy as np
+## Calibration Script
+``````python```import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -144,8 +144,8 @@ plt.show()
 
 ```
 
-## Title: Fractional Brownian Motion and Cholesky  decomposition (under Rough SABR) Script
-```import numpy as np
+## Fractional Brownian Motion and Cholesky  decomposition (under Rough SABR) Script
+``````python```import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.linalg import cholesky
