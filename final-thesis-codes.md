@@ -1,5 +1,7 @@
 ## Classical SABR Script
-``````pythonimport numpy as np
+
+```python
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -63,10 +65,11 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 
-``````
+```
 
 ## Calibration Script
-``````pythonimport numpy as np
+```python
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -145,7 +148,8 @@ plt.show()
 ```
 
 ## Fractional Brownian Motion and Cholesky  decomposition (under Rough SABR) Script
-``````pythonimport numpy as np
+```python
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.linalg import cholesky
@@ -206,6 +210,6 @@ plt.ylabel("Convexity adjustment")
 plt.legend()
 plt.show()
 
-``````
+```
 
 
